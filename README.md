@@ -39,3 +39,12 @@ The advantages of decision trees are that they are easy to understand, require l
 - Training the Decision Tree Regression model on the training set
 - Predicting and accuracy check
 - Comparing the Real Values with Predicted Values
+ 
+## Plotting the graph of Test and Predicted data
+
+  ![image](https://user-images.githubusercontent.com/95735293/145894683-c43393a7-237f-4eb7-b7a6-93a2fc5d084f.png)
+
+  
+## Performance
+  
+![image](https://user-images.githubusercontent.com/95735293/145894711-080db206-4a77-4369-9321-273ebab9d0f1.png)
